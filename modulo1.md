@@ -6,9 +6,9 @@
 
 
 ## Actividad 2: En esta actividad vamos a utilizar el sensor de temperatura para mostrar sus valores en pantalla al presionar los botones A y B.
+![image](EJ2.png)
 
-
-
+- [ARCHIVO](microbit-Modulo1Ejercicio2.hex)
 
 
 ## Actividad 3: Diseña tu propio programa para que la microbit muestre en pantalla un icono si es agitado.
