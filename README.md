@@ -13,3 +13,5 @@ Tiene una pantalla de luz LED, botones, sensores y muchas características de en
 ## Modulo 3: Programación básica 2
 ## Modulo 4: Ampliación
 ## Proyecto
+## Licencia
+![image](licencia.png)
