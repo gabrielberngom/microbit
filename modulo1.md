@@ -12,4 +12,6 @@
 
 
 ## Actividad 3: Diseña tu propio programa para que la microbit muestre en pantalla un icono si es agitado.
+![image](EJ3.png)
 
+- [ARCHIVO](microbit-Modulo1Ejercicio3.hex)
