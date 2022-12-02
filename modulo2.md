@@ -5,4 +5,4 @@
 
 
 
-## Ejercicio 3: 
+## Ejercicio 3: Toca en la placa, la primera parte de una melodía al presionar el botón A.
