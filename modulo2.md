@@ -1,7 +1,7 @@
 ## Ejercicio 1: Consigue que la placa muestre un cuadrado girando al agitar la placa.
 ![image](b2-e1.png)
 
-- [Archivo](microbit-Modulo2Ejercicio1.hex)
+- [ARCHIVO](microbit-Modulo2Ejercicio1.hex)
 
 ## Ejercicio 2: Añadimos a continuación de la animación del ejercicio anterior, que nos muestre en pantalla un número aleatorio.
 
