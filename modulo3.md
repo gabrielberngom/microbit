@@ -3,7 +3,7 @@
 
 - [ARCHIVO](microbit-Modulo3Ejercicio1.hex)
 
-## Actividad 1 - Ampliación: incluimos en el bloque “para siempre” una condición si.
+## Actividad 1 - Ampliación: Incluimos en el bloque “para siempre” una condición si.
 ![image](b3-e1a.png)
 
 - [ARCHIVO](microbit-Modulo3Ejercicio1-Amp.hex)
