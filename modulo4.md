@@ -5,4 +5,4 @@
 ![image](b4-a.png)
 ![image](b4-b.png)
 
-## - [ARCHIVO](microbit-Modulo4-Ampliación.hex)
+## - [`ARCHIVO`](microbit-Modulo4-Ampliación.hex)
