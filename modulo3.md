@@ -2,5 +2,9 @@
 
 
 
+## Actividad 1 - Ampliación: incluimos en el bloque “para siempre” una condición si.
+
+
+
 ## Actividad 2: Crea una imagen grande y programa la placa para que inicialmente se muestre la parte central de la imagen y, al presionar los botones A y B, la imagen se deslice a la izquierda o a la derecha, respectivamente.
 
