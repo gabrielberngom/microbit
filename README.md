@@ -15,5 +15,5 @@ Tiene una pantalla de luz LED, botones, sensores y muchas características de en
 ## [Proyecto](proyecto.md)
 ## Autor
 Gabriel Bernal Gómez
-## Licencia
-![image](licencia.png)
+## [Licencia](licencia.md)
+
