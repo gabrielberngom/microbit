@@ -13,7 +13,6 @@ Tiene una pantalla de luz LED, botones, sensores y muchas características de en
 ## [Modulo 3: Programación básica 2](modulo3.md)
 ## [Modulo 4: Ampliación](modulo4.md)
 ## [Proyecto](proyecto.md)
-## Autor
-Gabriel Bernal Gómez
+## [Autor](autor.md)
 ## [Licencia](licencia.md)
 
